@@ -1,11 +1,11 @@
-**Selamat Datang di "Landing Page" Website! 🚀**
+**Selamat Datang di "Dapurku" Website! 🚀**
 
 Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
 
 ### 🚧 Status Proyek
 
 - **Status:** Selesai
-- **Tanggal Rilis Diharapkan:** September 2023
+- **Tanggal Rilis Diharapkan:** 18 September 2024
 
 ### 🚀 Fitur Utama
 
@@ -39,7 +39,7 @@ Berikut adalah beberapa tampilan halaman website :
 
 ## 📬 Kontak
 
-Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282318334287).
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [alif67916@gmail.com](mailto:alif67916@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282291383797).
 
 ### 🙏 Kontribusi
 
@@ -50,13 +50,13 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```bash
-   git clone https://github.com/fifovalle/WEBSITE-LANDING-PAGE.git
+   git clone https://github.com/4lifbima/Dapurku.git
    ```
    
 2. Pindah ke direktori proyek.
 
    ```bash
-   cd WEBSITE-LANDING-PAGE
+   cd Dapurku
    ```
 
 3. Buka proyek menggunakan editor kode favorit Anda, seperti Visual Studio Code atau Sublime Text.
@@ -78,5 +78,5 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
 
 <div align="center">
-  &copy; 2023 [Naufal FIFA]
+  &copy; 2024 [Alif Bima Pradana]
 </div>
